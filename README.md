@@ -20,8 +20,20 @@ To collect and analyse website text data to identify patterns, frequently occurr
 - Text mining and analysis
 - Visualisation and interpretation of findings
 
+
 ## Project Files
-Project datasets, analysis outputs and supporting documentation will be uploaded to this repository.
+
+- `YourStory_Web_Mining_Report.pdf` — Project report documenting the web mining and text analysis work.
+- `yourstory-com-2026-10-26.xlsx` — Collected YourStory.com website data in Excel format.
+
+## Project Focus
+
+- Website data collection
+- Text data preparation
+- Web mining
+- Text analysis
+- Identification of content patterns and themes
+
 
 ## Author
 Charitha R Vellore
